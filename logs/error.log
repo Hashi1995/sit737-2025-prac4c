@@ -1,0 +1,1 @@
+{"level":"error","message":"calculation Error: n1 and n2 should be valid - Request: /add?n1=10&n2=abc - Query: {\"n1\":\"10\",\"n2\":\"abc\"}","service":"calculator-microservice"}

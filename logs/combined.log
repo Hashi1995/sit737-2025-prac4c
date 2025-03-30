@@ -1,0 +1,24 @@
+{"level":"info","message":"Addition: 10 + 5 = 15","service":"calculator-microservice"}
+{"level":"info","message":"Square Root: sqrt(25) = undefined","service":"calculator-microservice"}
+{"level":"info","message":"Devision: 10 / 2 = 5","service":"calculator-microservice"}
+{"level":"info","message":"Modulo: 10 % 3 = 1","service":"calculator-microservice"}
+{"level":"info","message":"Modulo: 10 % 3 = 1","service":"calculator-microservice"}
+{"level":"info","message":"Exponentiation: 2 ^ 3 = 8","service":"calculator-microservice"}
+{"level":"info","message":"Exponentiation: 2 ^ 3 = 8","service":"calculator-microservice"}
+{"level":"info","message":"Exponentiation: 2 ^ 3 = 8","service":"calculator-microservice"}
+{"level":"info","message":"Exponentiation: 2 ^ 3 = 8","service":"calculator-microservice"}
+{"level":"info","message":"Exponentiation: 2 ^ 3 = 8","service":"calculator-microservice"}
+{"level":"info","message":"Addition: 10 + 5 = 15","service":"calculator-microservice"}
+{"level":"info","message":"Exponentiation: 10 ^ 2 = 100","service":"calculator-microservice"}
+{"level":"info","message":"Modulo: 10 % 3 = NaN","service":"calculator-microservice"}
+{"level":"info","message":"Square: square(9) = undefined","service":"calculator-microservice"}
+{"level":"info","message":"Square: square(9) = undefined","service":"calculator-microservice"}
+{"level":"info","message":"Modulo: 10 % 3 = 1","service":"calculator-microservice"}
+{"level":"info","message":"Devision: 10 / 5 = 2","service":"calculator-microservice"}
+{"level":"info","message":"Exponentiation: 2 ^ 3 = 8","service":"calculator-microservice"}
+{"level":"info","message":"Square: square(9) = 3","service":"calculator-microservice"}
+{"level":"info","message":"Modulo: 10 % 3 = 1","service":"calculator-microservice"}
+{"level":"error","message":"calculation Error: n1 and n2 should be valid - Request: /add?n1=10&n2=abc - Query: {\"n1\":\"10\",\"n2\":\"abc\"}","service":"calculator-microservice"}
+{"level":"info","message":"Square: square(0) = 0","service":"calculator-microservice"}
+{"level":"info","message":"Square: square(0) = 0","service":"calculator-microservice"}
+{"level":"info","message":"Exponentiation: 2 ^ 3 = 8","service":"calculator-microservice"}
